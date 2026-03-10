@@ -1,2 +1,2 @@
 # Assig.web-_programming
- my effort in my html code
+ my Effort in my Html code  and Implemented internally scritps to make it more  dynamically
